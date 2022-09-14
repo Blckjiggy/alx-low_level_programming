@@ -1,16 +1,16 @@
-0 - Write a program that prints Holberton, followed by a new line
+0 - Write a program that prints HOLBERTON, followed by a new line.
 
-1 - Write a function that prints the alphabet, in lowecase, followed by a new line.
+1 - Write a function that prints the alphabet, in lowercase, followed by a new line.
 
-2 - Write a program that prints 10 times the alphabet, in lowercase, followed by a new line.
+2 - Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
 3 - Write a function that checks for lowercase character.
 
-4 - Write a function that check for alphabetic character.
+4 - Write a function that checks for alphabetic character.
 
 5 - Write a function that prints the sign of a number.
 
-6 - There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you mandatory.
+6 - There is no such thing as absolute value in this world. You can only estimate what a thing is worth to your mandatory.
 
 7 - Write a function that prints the last digit of a number.
 
@@ -20,4 +20,4 @@
 
 10 - Write a function that adds two integer and returns the result.
 
-11 - Write a function that prints all natural numbers from n to 98, followed by a new line.
+11 - Write a function that prints all natural number from n to 98, followed by a new line.
